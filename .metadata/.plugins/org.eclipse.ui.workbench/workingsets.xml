@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1595166697631_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1595166697644_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1599536361143_4" label="DS" name="DS">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Binary Tree" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/BinarySearch" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/InsertionSort" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Level order spiral form binary tree" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/LevelOrder Binary Tree" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/LinearSearch" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MergeSort" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Selection Sort" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Stack" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/childsum property binary tree" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/deletion dll" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/implementation dll" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/implementation ll" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/parenthesis stack" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/queue implementation ll" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/queue implementation using array" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/reverse ll" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/reverse of dll" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/reverse stack" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/split ll" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/sumofll" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1599536381988_5" label="SWING" name="SWING"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1595166702425_2" label="Window Working Set" name="Aggregate for window 1595166702425"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1596032181438_3" label="Window Working Set" name="Aggregate for window 1596032181438"/>
+</workingSetManager>
